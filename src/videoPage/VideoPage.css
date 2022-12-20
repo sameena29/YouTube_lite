@@ -1,0 +1,17 @@
+.video{
+	padding:40px;
+}
+
+.player{
+	margin-top:20px; 
+	border-color: black;
+
+}
+
+.list{
+	position:absolute;
+  left:910px;
+  font-size:5px;
+}
+
+
